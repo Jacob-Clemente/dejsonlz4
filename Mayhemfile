@@ -1,4 +1,4 @@
-project: jacob-clemente/dejsonlz4
+project: dejsonlz4
 target: dejsonlz4
 
 cmds:
